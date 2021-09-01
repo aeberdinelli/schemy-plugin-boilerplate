@@ -1,0 +1,12 @@
+{
+  "name": "schemy-plugin-boilerplate",
+  "version": "1.0.0",
+  "description": "A template for a Schemy plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["schemy","json","validation","object","node","javascript"],
+  "author": "Alan Berdinelli",
+  "license": "MIT"
+}
